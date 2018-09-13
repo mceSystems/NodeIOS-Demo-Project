@@ -1,4 +1,4 @@
-# node-jsc Demp App
+# node-jsc Demo App
 A demo iOS app demonstrating using node-jsc and node-native-script.
 
 The demo app:
